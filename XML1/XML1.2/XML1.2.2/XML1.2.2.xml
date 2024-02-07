@@ -1,0 +1,10 @@
+<books>
+    <book>
+        <author>Aleko Konstantinov</author>
+        <name>Bay Ganyo</name>
+    </book>
+    <book>
+        <author>Фёдор Достоевский</author>
+        <name>Братья Карамазовы</name>
+    </book>
+</books>

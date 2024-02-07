@@ -1,0 +1,10 @@
+<books>
+    <book>
+        <author>Фёдор Достоевский</author>
+        <name>Идиот</name>
+    </book>
+    <book>
+        <author>Isaak Azimov</author>
+        <name>The Caves of Steel</name>
+    </book>
+</books>

@@ -1,0 +1,10 @@
+<books>
+    <book>
+        <author>Ivan Vazov</author>
+        <name>New Country</name>
+    </book>
+    <book>
+        <author>Leo Tolstoy</author>
+        <name>The Forged Coupon</name>
+    </book>
+</books>

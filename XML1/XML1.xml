@@ -1,0 +1,10 @@
+<books>
+    <book>
+        <author>Isaak Azimov</author>
+        <name>End of spirit</name>
+    </book>
+    <book>
+        <author>Leo Tolstoy</author>
+        <name>War and Peace</name>
+    </book>
+</books>
